@@ -81,11 +81,7 @@ export function AdminLogin() {
             </Button>
           </form>
 
-          <div className="mt-6 text-center">
-            <p className="text-xs text-gray-500">
-              Default password: admin123
-            </p>
-          </div>
+
         </CardContent>
       </Card>
     </div>
