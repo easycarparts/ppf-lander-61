@@ -26,7 +26,7 @@ const VideoBackground = ({ className = '' }: VideoBackgroundProps) => {
       />
       
       {/* Video overlay with dark gradient */}
-      <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background/80" />
+      <div className="absolute inset-0 bg-gradient-to-b from-background/95 via-background/80 to-background/100" />
       
       {/* Animated video simulation using CSS */}
       <div className="absolute inset-0">
